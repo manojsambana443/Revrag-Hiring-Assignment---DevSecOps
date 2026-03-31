@@ -152,8 +152,4 @@ I would use a balanced approach — pin versions but review and update them regu
 
 This way we get both security and maintainability.
 
----
 
-## Final Thoughts
-
-The main focus was to reduce risk without overcomplicating things. I tried to keep the setup simple, secure, and practical for real use.
