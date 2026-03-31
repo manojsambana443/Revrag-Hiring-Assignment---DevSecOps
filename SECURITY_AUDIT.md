@@ -148,7 +148,7 @@ So we need to clean the history and rotate the credentials. Both steps are impor
 
 Pinning versions improves security, but makes updates harder.
 
-I would use a balanced approach — pin versions but review and update them regularly.
+I would use a balanced approach - pin versions but review and update them regularly.
 
 This way we get both security and maintainability.
 
